@@ -1,0 +1,6 @@
+[submodule "f0_config"]
+	path = f0_config
+	url = https://github.com/MasterFL0/f0_config
+[submodule "drivers_m0"]
+	path = drivers_m0
+	url = https://github.com/MasterFL0/drivers_m0
